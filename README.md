@@ -4,9 +4,9 @@ This is a workspace for me to get better aquainted with Smart Contract Security 
 
 ## Frameworks
 
-+ [ZeppelinOS](https://openzeppelin.org/)
-+ [TruffleJS](http://truffleframework.com/)
-+ [EthJS](https://github.com/ethjs/ethjs)
++ [ZeppelinOS](https://openzeppelin.org/) ```shell $ npm install zeppelin-solidity ```
++ [TruffleJS](http://truffleframework.com/) ```shell $ npm install -g truffle ```
++ [EthJS](https://github.com/ethjs/ethjs) ```shell $ npm install --save ethjs ```
 
 ## Tools
 
