@@ -25,6 +25,18 @@ This is a workspace for me to get better aquainted with Smart Contract Security 
 + [Onward with Ethereum Smart Contract Security](https://blog.zeppelin.solutions/onward-with-ethereum-smart-contract-security-97a827e47702)
 + [Tools and Technologies in the Ethereum Ecosystem](https://medium.com/blockchannel/tools-and-technologies-in-the-ethereum-ecosystem-e5b7e5060eb9)
 
+## Ethereum Core Developers 
+
++ Vitalik Buterin: [Github](https://github.com/vbuterin), [Blog](https://blog.ethereum.org/author/vitalik-buterin/)
++ Dr. Christian Reitwiessner: [Github](https://github.com/chriseth), [Blog](https://blog.ethereum.org/author/christian_r/)
++ Dr. Gavin Wood: [Github](https://github.com/gavofyork), [Blog](http://gavwood.com/)
++ Vlad Zamfir: [Github](https://github.com/vladzamfir)
+
+
+
+
+
+
 
 
 
