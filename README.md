@@ -10,6 +10,7 @@ This is a workspace for me to get better aquainted with Smart Contract Security 
 + [ZeppelinOS](https://openzeppelin.org/) ``` $ npm install zeppelin-solidity ```
 + [TruffleJS](http://truffleframework.com/) ``` $ npm install -g truffle ```
 + [EthJS](https://github.com/ethjs/ethjs) ``` $ npm install --save ethjs ```
++ [Dapp](https://dapp.readthedocs.io/en/latest/) ``` Check docs for install ```
 
 ## Tools
 
