@@ -5,9 +5,11 @@ This is a workspace for me to get better aquainted with Smart Contract Security 
 ### Authors 
 + [Fodé Diop](https://github.com/diop)
 
-## Core Language
+## Official Documentation
 
- + Solidity: [http://solidity.readthedocs.io/en/develop/](http://solidity.readthedocs.io/en/develop/)
++ Solidity: [http://solidity.readthedocs.io/en/develop/](http://solidity.readthedocs.io/en/develop/)
++ Ethereum Javascript API Wiki: [Ethereum Wiki](https://github.com/ethereum/wiki/wiki/JavaScript-API#contract-events)
+
 
 ## Frameworks
 
