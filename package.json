@@ -1,0 +1,19 @@
+{
+  "name": "smart-contract-security",
+  "version": "1.0.0",
+  "description": "Smart Contract Workspace",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Ethereum",
+    "Smart",
+    "Contract",
+    "Security",
+    "Solidity",
+    "ZeppelinOS"
+  ],
+  "author": "Fode Diop",
+  "license": "MIT"
+}
