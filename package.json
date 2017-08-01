@@ -15,5 +15,8 @@
     "ZeppelinOS"
   ],
   "author": "Fode Diop",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "zeppelin-solidity": "^1.2.0"
+  }
 }
