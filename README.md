@@ -5,10 +5,16 @@ This is a workspace for me to get better aquainted with Smart Contract Security 
 ### Authors 
 + [Fodé Diop](https://github.com/diop)
 
+## Core Language
+
+ + Solidity: [http://solidity.readthedocs.io/en/develop/](http://solidity.readthedocs.io/en/develop/)
+
 ## Frameworks
 
 + [ZeppelinOS](https://openzeppelin.org/) ``` $ npm install zeppelin-solidity ```
 + [TruffleJS](http://truffleframework.com/) ``` $ npm install -g truffle ```
++ [EmbarkJS](https://github.com/iurimatias/embark-framework) ``` $ npm -g install embark ```
++ [EthereumJS / TestRPC](https://github.com/ethereumjs/testrpc) ``` $ npm install -g ethereumjs-testrpc ```
 + [EthJS](https://github.com/ethjs/ethjs) ``` $ npm install --save ethjs ```
 + [Dapp](https://dapp.readthedocs.io/en/latest/) ``` Check docs for install ```
 
