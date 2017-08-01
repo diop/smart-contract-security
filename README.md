@@ -30,7 +30,7 @@ This is a workspace for me to get better aquainted with Smart Contract Security 
 + Vitalik Buterin: [Github](https://github.com/vbuterin), [Blog](https://blog.ethereum.org/author/vitalik-buterin/)
 + Dr. Christian Reitwiessner: [Github](https://github.com/chriseth), [Blog](https://blog.ethereum.org/author/christian_r/)
 + Dr. Gavin Wood: [Github](https://github.com/gavofyork), [Blog](http://gavwood.com/)
-+ Vlad Zamfir: [Github](https://github.com/vladzamfir)
++ Vlad Zamfir: [Github](https://github.com/vladzamfir), [Blog](https://blog.ethereum.org/author/vlad/)
 
 
 
