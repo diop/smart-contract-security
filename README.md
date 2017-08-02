@@ -46,7 +46,9 @@ This is a workspace for me to get better aquainted with Smart Contract Security 
 + Dr. Gavin Wood: [Github](https://github.com/gavofyork), [Blog](http://gavwood.com/)
 + Vlad Zamfir: [Github](https://github.com/vladzamfir), [Blog](https://blog.ethereum.org/author/vlad/)
 
+## Glossary
 
++ Ethereum Builders Gitbook: [Glossary](https://ethereumbuilders.gitbooks.io/guide/content/en/glossary.html)
 
 
 
