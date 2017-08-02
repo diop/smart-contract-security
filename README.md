@@ -1,6 +1,6 @@
 ## Build Secure Smart Contracts in Solidity
 
-Workspace get better aquainted with Smart Contract Security in partnership with our friends at [Hosho.io](http://www.hosho.io)
+Workspace to get better aquainted with Smart Contract Security in partnership with our friends at [Hosho.io](http://www.hosho.io)
 
 ### Authors 
 + [Fodé Diop](https://github.com/diop)
