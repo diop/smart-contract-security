@@ -5,10 +5,11 @@ Workspace to get better aquainted with Smart Contract Security in partnership wi
 ### Authors 
 + [Fodé Diop](https://github.com/diop)
 
-## Official Documentation
+## Documentation
 
 + Solidity: [http://solidity.readthedocs.io/en/develop/](http://solidity.readthedocs.io/en/develop/)
 + Ethereum Javascript API Wiki: [Ethereum Wiki](https://github.com/ethereum/wiki/wiki/JavaScript-API#contract-events)
++ Ethereum Guide: [https://eth.guide/](https://eth.guide/)
 
 
 ## Frameworks
@@ -28,7 +29,7 @@ Workspace to get better aquainted with Smart Contract Security in partnership wi
 + [Porosity - Decompiler for Blockchain-based Ethereum Smart-Contracts](https://github.com/comaeio/porosity)
 + [RxDB](https://github.com/pubkey/rxdb)
 
-## Resources 
+## Resources
 
 + [Solidity Security Consideration](http://solidity.readthedocs.io/en/develop/security-considerations.html)
 + [ConsenSys - Ethereum Contract Security Techniques and Tips](https://github.com/ConsenSys/smart-contract-best-practices)
