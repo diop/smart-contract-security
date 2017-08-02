@@ -37,6 +37,7 @@ This is a workspace for me to get better aquainted with Smart Contract Security 
 + [Tools and Technologies in the Ethereum Ecosystem](https://medium.com/blockchannel/tools-and-technologies-in-the-ethereum-ecosystem-e5b7e5060eb9)
 + [r/ethdev](https://www.reddit.com/r/ethdev/)
 + [DecypherTV](http://decypher.tv/series/ethereum-development)
++ [Ethereum Stackexchange](https://ethereum.stackexchange.com/)
 
 ## Ethereum Core Developers 
 
