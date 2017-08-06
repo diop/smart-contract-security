@@ -32,6 +32,7 @@ Workspace to get better aquainted with Smart Contract Security in partnership wi
 ## Resources
 
 + [Solidity Security Consideration](http://solidity.readthedocs.io/en/develop/security-considerations.html)
++ [Robust Smart Contracts with OpenZeppelin](http://truffleframework.com/tutorials/robust-smart-contracts-with-openzeppelin)
 + [ConsenSys - Ethereum Contract Security Techniques and Tips](https://github.com/ConsenSys/smart-contract-best-practices)
 + [The Hitchhiker’s Guide to Smart Contracts in Ethereum](https://blog.zeppelin.solutions/the-hitchhikers-guide-to-smart-contracts-in-ethereum-848f08001f05)
 + [Onward with Ethereum Smart Contract Security](https://blog.zeppelin.solutions/onward-with-ethereum-smart-contract-security-97a827e47702)
