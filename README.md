@@ -42,7 +42,7 @@ Workspace to get better aquainted with Smart Contract Security in partnership wi
 + [Ethereum Stackexchange](https://ethereum.stackexchange.com/)
 
 ## Readings
-[Why So Many Smart Contract Use Cases Are Simply Impossible](https://www.coindesk.com/three-smart-contract-misconceptions/)
++ Coindesk: [Why So Many Smart Contract Use Cases Are Simply Impossible](https://www.coindesk.com/three-smart-contract-misconceptions/)
 
 ## Ethereum Core Developers 
 
