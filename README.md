@@ -41,6 +41,9 @@ Workspace to get better aquainted with Smart Contract Security in partnership wi
 + [DecypherTV](http://decypher.tv/series/ethereum-development)
 + [Ethereum Stackexchange](https://ethereum.stackexchange.com/)
 
+## Readings
+[Why So Many Smart Contract Use Cases Are Simply Impossible](https://www.coindesk.com/three-smart-contract-misconceptions/)
+
 ## Ethereum Core Developers 
 
 + Vitalik Buterin: [Github](https://github.com/vbuterin), [Blog](https://blog.ethereum.org/author/vitalik-buterin/)
